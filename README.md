@@ -34,7 +34,7 @@ Jupyter Lab (optional for Plotly):jupyter labextension install jupyterlab-plotly
 
 
 Dataset:
-Download owid-covid-data.csv from Our World in Data.
+Download owid-covid-data-old.csv from Our World in Data.
 Place it in the project root.
 
 
