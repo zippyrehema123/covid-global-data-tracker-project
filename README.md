@@ -102,7 +102,7 @@ covid-19-global-data-tracker/
 ├── new_cases_smoothed.png        # Output: New cases plot
 ├── covid_global_map.html         # Output: Choropleth map
 ├── README.md                     # Project documentation
-└── requirements.txt              # Dependencies
+
 
 Example Outputs
 
