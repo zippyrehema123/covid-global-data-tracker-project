@@ -147,8 +147,6 @@ Commit changes: git commit -m "Add feature".
 Push: git push origin feature-name.
 Open a pull request.
 
-License
-MIT License
 
 Acknowledgments
 Data: Our World in Data
